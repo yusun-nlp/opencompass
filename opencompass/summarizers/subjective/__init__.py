@@ -11,3 +11,4 @@ from .flames import FlamesSummarizer
 from .information_retrival import IRSummarizer
 from .mtbench import MTBenchSummarizer
 from .multiround import MultiroundSummarizer
+from .f_eval import FEvalSummarizer
