@@ -12,6 +12,7 @@ from .babilong import *  # noqa: F401, F403
 from .bbeh import *  # noqa: F401, F403
 from .bbh import *  # noqa: F401, F403
 from .bigcodebench import *  # noqa: F401, F403
+from .biodata import *  # noqa: F401, F403
 from .boolq import *  # noqa: F401, F403
 from .bustum import *  # noqa: F401, F403
 from .c3 import *  # noqa: F401, F403
@@ -51,6 +52,7 @@ from .ds1000 import *  # noqa: F401, F403
 from .ds1000_interpreter import *  # noqa: F401, F403
 from .Earth_Silver import *  # noqa: F401, F403
 from .eprstmt import *  # noqa: F401, F403
+from .fasta import *  # noqa: F401, F403
 from .FinanceIQ import *  # noqa: F401, F403
 from .flores import *  # noqa: F401, F403
 from .game24 import *  # noqa: F401, F403
